@@ -1,9 +1,5 @@
 # Projeto---Playlist
 
-Claro! Vou explicar o código em **linguagem simples**, de forma que até quem não entende de programação possa compreender.
-
----
-
 ## O que o código faz?
 
 O código é um **programa para gerenciar uma playlist de músicas**. Ele permite:
@@ -78,7 +74,3 @@ Se não houver arquivo salvo, o programa começa com uma lista padrão de 10 mú
 ✅ É interativo, ou seja, você escolhe o que quer fazer no menu.
 ✅ As músicas são salvas para que você não perca os dados.
 ✅ É organizado em funções para facilitar a manutenção e a legibilidade do código.
-
-Se quiser, posso explicar cada pedacinho de forma ainda mais detalhada! 😊
-
-Quer que eu faça isso?
