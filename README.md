@@ -1,4 +1,4 @@
-# Projeto---Playlist
+# Projeto - Playlist
 
 ## O que o código faz?
 
